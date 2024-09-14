@@ -113,6 +113,3 @@ Here are some sample visualizations from the project:
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-Feel free to adjust the image links to actual images from your project. This README provides a comprehensive view of your project and the technical depth of your work.
